@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeyyMace
-- 👀 I’m interested in subjects like software engineering, Quality assurance, and meeting new peopel!
+- 👀 I’m interested in subjects like Software Engineering, Quality assurance, and meeting new people!
 - 🌱 I’m currently achieving a bachelors of science in Software Engineering and a minor in communications
 - 💞️ I’m looking to collaborate on a variety of different projects and broaden my skillset and become the best programmer I can be
 - 📫 You can reach me here: josephmace162@gmail.com
