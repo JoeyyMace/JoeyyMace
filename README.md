@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeyyMace
 - 👀 I’m interested in subjects like Software Engineering, Quality assurance, and meeting new people!
-- 🌱 I’m currently achieving a bachelors of science in Software Engineering and a minor in communications
+- 🌱 I’m currently working to achieve a bachelors of science in Software Engineering and a minor in communications
 - 💞️ I’m looking to collaborate on a variety of different projects and broaden my skillset and become the best programmer I can be
 - 📫 You can reach me here: josephmace162@gmail.com
 - ⚡ Fun fact: I have a sweet laberdoodle named Goose and I love to play the guitar!
